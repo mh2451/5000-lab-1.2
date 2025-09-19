@@ -1,7 +1,75 @@
 ---
 title: "simple_quarto_website"
+bibliography: reference.bib
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# What are the advantages of chocolate as a carrier of vitamins?[^new_footnote]
+Chocolate is a viable option for delivering supplementation of fat soluble vitamins due to its high fat content and crystallized structure. They might also be more highly accepted than adult everyday vitamins, which come in pill form. There has been research conducted testing different kinds of ingredients might lead to beneficial outcomes amongst varying demographics. 
+
+## Is there a need for improved vitamin supplements?
+* Currently, over 40% of the world's children are missing at least one vital nutrient. [@lamport2020beneficial]
+* Creating a fiscally accessible, tasty vitamin could help to decrease the rate if vitamin deficiency in children. 
+
+## Should new supplementation target children or adults?
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 50%; padding-right: 10px; vertical-align: top;">
+
+
+**Children**
+
+Children are well known to be at risk of vitamin deficiency. They are less able to self regulate their own diets, and the introduction of calorie dense, low nutrient foods(such as fast food) can lead to microdeficiencies. 
+
+* 40% are deficient
+
+
+
+
+    </td>
+    <td style="width: 50%; padding-left: 10px; vertical-align: top;">
+
+**Adults**
+
+Adults are better at regulating diet and have greater means at changing their vitamin intakes. However, many adult vitamin supplements are unenjoyable. 
+
+1.  Would an easier delivery through a chocolate shell lead to better supplementation?
+
+    </td>
+  </tr>
+</table>
+
+
+### Pros and Cons to Chocolate Supplementation
+| Pros            | Cons            |
+|-----------------|-----------------|
+| More Palatable  | Could lead to overconsumption  |
+| Viable Delivery |  |
+| Easy to Produce |                 |
+
+### Relative Change
+We can predict the relative change in the percent of children who are vitamin deficient after introducing the chocolate supplement with:
+$$\% \Delta D = \dfrac{D_{before} - D_{after}}{D_{after}} \times 100$$ 
+
+The absolute change, $\Delta D = D_{before} - D_{after}$, can show us the exact change in number of deficient children. 
+
+Here's what parents had to say about the new product:
+
+>My kid has been way more accepting of the chocolate supplement compared to before!
+
+![](./images/chocolateball.jpg 'This is what the chocolates we created looked like!')
+![](./images/chocolateball2.jpg)
+
+```{mermaid}
+flowchart TD
+    A[Do they eat our chocolate vitamin?] -->|Yes| B[They are probably NOT vitamin deficient!]
+    A -->|No| C[They are probably vitamin deficient...]
+```
+
+
+[^new_footnote]: Note: This is only partially based off of real research performed by Matt Hakim. 
+
+

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#is-there-a-need-for-improved-vitamin-supplements",
+    "href": "index.html#is-there-a-need-for-improved-vitamin-supplements",
+    "title": "simple_quarto_website",
+    "section": "Is there a need for improved vitamin supplements?",
+    "text": "Is there a need for improved vitamin supplements?\n\nCurrently, over 40% of the world’s children are missing at least one vital nutrient. (Lamport, Christodoulou, and Achilleos 2020)\nCreating a fiscally accessible, tasty vitamin could help to decrease the rate if vitamin deficiency in children."
+  },
+  {
+    "objectID": "index.html#should-new-supplementation-target-children-or-adults",
+    "href": "index.html#should-new-supplementation-target-children-or-adults",
+    "title": "simple_quarto_website",
+    "section": "Should new supplementation target children or adults?",
+    "text": "Should new supplementation target children or adults?\n\n\n\nChildren\nChildren are well known to be at risk of vitamin deficiency. They are less able to self regulate their own diets, and the introduction of calorie dense, low nutrient foods(such as fast food) can lead to microdeficiencies.\n\n40% are deficient\n\n\n\nAdults\nAdults are better at regulating diet and have greater means at changing their vitamin intakes. However, many adult vitamin supplements are unenjoyable.\n\nWould an easier delivery through a chocolate shell lead to better supplementation?\n\n\n\n\n\nPros and Cons to Chocolate Supplementation\n\n\n\nPros\nCons\n\n\n\n\nMore Palatable\nCould lead to overconsumption\n\n\nViable Delivery\n\n\n\nEasy to Produce\n\n\n\n\n\n\nRelative Change\nWe can predict the relative change in the percent of children who are vitamin deficient after introducing the chocolate supplement with: \\[\\% \\Delta D = \\dfrac{D_{before} - D_{after}}{D_{after}} \\times 100\\]\nThe absolute change, \\(\\Delta D = D_{before} - D_{after}\\), can show us the exact change in number of deficient children.\nHere’s what parents had to say about the new product:\n\nMy kid has been way more accepting of the chocolate supplement compared to before!\n\n \n\n\n\n\n\nflowchart TD\n    A[Do they eat our chocolate vitamin?] --&gt;|Yes| B[They are probably NOT vitamin deficient!]\n    A --&gt;|No| C[They are probably vitamin deficient...]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNote: This is only partially based off of real research performed by Matt Hakim.↩︎"
+  }
+]
