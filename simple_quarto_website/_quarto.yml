@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - file: about.ipynb
+      - href: about.qmd
         text: About
       - href: ./slides/slides.ipynb
         text: Slides

@@ -1,5 +1,35 @@
 ---
-title: "About"
+title: About
+html:
+  toc: true
+jupyter: python3
 ---
 
 About this site
+
+# Purpose
+This website is meant to help practice building a simple website using quarto, while pushing it to GU domains. It is also meant to reinforce good practices with using git as well as rsync. 
+
+## Content
+The content of this website is loosely based on some research I performed during my undergradute studies as a Nutrtional Sciences student. We were tasked on creating a chocolate product that catered to the needs of a specific demographic. 
+
+### Plot
+The following plot is just practice.
+
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0, 10, 200)
+a = 1 
+b = 0.5
+y = a * np.exp(b * x)
+plt.figure(figsize=(8,5))
+plt.plot(x, y, linewidth=2, color="blue")
+plt.title("Python skill over time", fontsize=14)
+plt.xlabel("Time", fontsize=12)
+plt.ylabel("skill", fontsize=12)
+plt.grid(True)
+plt.show()
+```
+
