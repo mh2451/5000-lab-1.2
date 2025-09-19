@@ -25,7 +25,7 @@
     "href": "index.html#should-new-supplementation-target-children-or-adults",
     "title": "simple_quarto_website",
     "section": "Should new supplementation target children or adults?",
-    "text": "Should new supplementation target children or adults?\n\n\n\nChildren\nChildren are well known to be at risk of vitamin deficiency. They are less able to self regulate their own diets, and the introduction of calorie dense, low nutrient foods(such as fast food) can lead to microdeficiencies.\n\n40% are deficient\n\n\n\nAdults\nAdults are better at regulating diet and have greater means at changing their vitamin intakes. However, many adult vitamin supplements are unenjoyable.\n\nWould an easier delivery through a chocolate shell lead to better supplementation?\n\n\n\n\n\nPros and Cons to Chocolate Supplementation\n\n\n\nPros\nCons\n\n\n\n\nMore Palatable\nCould lead to overconsumption\n\n\nViable Delivery\n\n\n\nEasy to Produce\n\n\n\n\n\n\nRelative Change\nWe can predict the relative change in the percent of children who are vitamin deficient after introducing the chocolate supplement with: \\[\\% \\Delta D = \\dfrac{D_{before} - D_{after}}{D_{after}} \\times 100\\]\nThe absolute change, \\(\\Delta D = D_{before} - D_{after}\\), can show us the exact change in number of deficient children.\nHere’s what parents had to say about the new product:\n\nMy kid has been way more accepting of the chocolate supplement compared to before!\n\n \n\n\n\n\n\nflowchart TD\n    A[Do they eat our chocolate vitamin?] --&gt;|Yes| B[They are probably NOT vitamin deficient!]\n    A --&gt;|No| C[They are probably vitamin deficient...]"
+    "text": "Should new supplementation target children or adults?\n\n\n\nChildren\nChildren are well known to be at risk of vitamin deficiency. They are less able to self regulate their own diets, and the introduction of calorie dense, low nutrient foods(such as fast food) can lead to microdeficiencies.\n\n40% are deficient\n\n\n\nAdults\nAdults are better at regulating diet and have greater means at changing their vitamin intakes. However, many adult vitamin supplements are unenjoyable.\n\nWould an easier delivery through a chocolate shell lead to better supplementation?\n\n\n\n\n\nPros and Cons to Chocolate Supplementation\n\n\n\nPros\nCons\n\n\n\n\nMore Palatable\nCould lead to overconsumption\n\n\nViable Delivery\n\n\n\nEasy to Produce\n\n\n\n\n\n\nRelative Change\nWe can predict the relative change in the percent of children who are vitamin deficient after introducing the chocolate supplement with: \\[\\% \\Delta D = \\dfrac{D_{before} - D_{after}}{D_{after}} \\times 100\\]\nThe absolute change, \\(\\Delta D = D_{before} - D_{after}\\), can show us the exact change in number of deficient children.\nHere’s what parents had to say about the new product:\n\nMy kid has been way more accepting of the chocolate supplement compared to before!\n\n  Video\n\n\n\n\n\nflowchart TD\n    A[Do they eat our chocolate vitamin?] --&gt;|Yes| B[They are probably NOT vitamin deficient!]\n    A --&gt;|No| C[They are probably vitamin deficient...]"
   },
   {
     "objectID": "index.html#footnotes",
@@ -33,5 +33,40 @@
     "title": "simple_quarto_website",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nNote: This is only partially based off of real research performed by Matt Hakim.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#getting-started",
+    "href": "slides/slides.html#getting-started",
+    "title": "How to Make Chocolate Shells",
+    "section": "Getting Started",
+    "text": "Getting Started\nChop chocolate into small pieces to help the melting process, put 1/3 of pieces to the side. Melt the Chocolate Fully, Constantly Stirring"
+  },
+  {
+    "objectID": "slides/slides.html#tempering-the-chocolate",
+    "href": "slides/slides.html#tempering-the-chocolate",
+    "title": "How to Make Chocolate Shells",
+    "section": "Tempering the Chocolate",
+    "text": "Tempering the Chocolate\nAs the chocolate begins to cool, slowly add the remaining chocolate pieces."
+  },
+  {
+    "objectID": "slides/slides.html#shaping-the-chocolate",
+    "href": "slides/slides.html#shaping-the-chocolate",
+    "title": "How to Make Chocolate Shells",
+    "section": "Shaping the chocolate",
+    "text": "Shaping the chocolate\nOnce the chocolate is cooled, add it to the molds, and allow it to cool completely. Congrats, you have a chocolate shell!(Scholey and Owen 2013)"
+  },
+  {
+    "objectID": "slides/slides.html#code-block",
+    "href": "slides/slides.html#code-block",
+    "title": "How to Make Chocolate Shells",
+    "section": "Code Block",
+    "text": "Code Block\n# Was the chocolate a success?\n# Practice code-fold\n# \n# \n# \n# \n# \n# \n# \n# \n# \n# \n# \n#\nsuccess = 1\nif success == 1:\n    print(\"We created a chocolate shell!\")\nelse:\n    print(\"We messed it up...\")"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "How to Make Chocolate Shells",
+    "section": "References",
+    "text": "References\n\n\n\n\nScholey, Andrew, and Lauren Owen. 2013. “Effects of Chocolate on Cognitive Function and Mood: A Systematic Review.” Nutrition Reviews 71 (10): 665–81."
   }
 ]

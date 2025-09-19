@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "simple_quarto_website"
+  title: "Simple Quarto Website Practice"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.ipynb
+      - href: about.ipynb
+        text: About
+      - href: ./slides/slides.ipynb
+        text: Slides
 
 format:
   html:

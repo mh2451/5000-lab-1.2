@@ -62,6 +62,7 @@ Here's what parents had to say about the new product:
 
 ![](./images/chocolateball.jpg 'This is what the chocolates we created looked like!')
 ![](./images/chocolateball2.jpg)
+![](./images/chocolateganacheratios.mp4)
 
 ```{mermaid}
 flowchart TD
